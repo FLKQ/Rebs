@@ -1,0 +1,11 @@
+.centerized p{
+        text-align: center;
+        margin-bottom: 0px;
+}
+
+.centerized{
+        position: relative;
+        bottom: 0px;
+        width: 100%;
+        
+}

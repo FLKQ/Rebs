@@ -1,0 +1,18 @@
+
+.container{
+     padding-top: 2rem;
+     padding-bottom: 2rem;
+
+}
+
+.card-w{
+    width: 21rem;
+}
+
+.card{
+    border: none;
+}
+
+.bg{
+    background-color: #2C2F33;
+}
